@@ -157,7 +157,7 @@ MonoBehaviour:
   - {fileID: 8634711757492915823, guid: 2e479c7baadd70046a84f55768037a60, type: 3}
   - {fileID: 421247163680537257, guid: 2a9badc29c380cc418f3a63949a00e93, type: 3}
   radius: 100
-  count: 50
+  count: 1000
   treeColor: {r: 0.5235849, g: 1, b: 0.97172916, a: 0.019607844}
   nodeColor: {r: 0, g: 0.7064569, b: 1, a: 0.039215688}
   spawnAreaColor: {r: 0.93694425, g: 1, b: 0.4575472, a: 0}
