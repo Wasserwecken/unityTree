@@ -5,7 +5,7 @@ Quadtree and Octree implementation for unity based on the
 ![Octree visualisation](/gitMedia/octree.png)
 
 ## Install
-Import the unityPackage from the release tab. Dependencies are included.
+Import the unityPackage from the [release](https://github.com/Wasserwecken/unityTree/releases) tab. Dependencies are included.
 
 ## Usage
 This is a `MonoBehaviour` independend implementation. There is no constraint to use the API within a `MonoBehaviour`. Only `UnityEngine.Vector3` and `UnityEngine.Vector2` is required from Unity.
